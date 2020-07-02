@@ -23,13 +23,13 @@ Un patrón de diseño es una solución a un problema de diseño.
 
 <p align= "Justify">Los patrones de diseño representa un nivel de abstracción un poco mas elevado de lo que hasta ahora el estudiante esta habituado a trabajar, pero una vez entendido su funcionamiento y utilidad, los diseños serán mucho más flexibles, modulares y reutilizables. En esencia un patrón tiene los siguientes 4 elementos:</p>
 
-- <p align= "Justify">**Nombre del patrón**: describe el problema de diseño, su solución y consecuencias en una o dos palabras.</p>
+- **Nombre del patrón**:  <p align= "Justify">describe el problema de diseño, su solución y consecuencias en una o dos palabras.</p>
 
-- <p align= "Justify">**El problema**: describe cuando aplicar el patrón, explica el problema y su contexto.<p>
+- **El problema**:  <p align= "Justify">describe cuando aplicar el patrón, explica el problema y su contexto.<p>
 
-- <p align= "Justify">**La solución**: describe los elementos del diseño, sus relaciones, responsabilidades y colaboraciones. No describe la implementación o un diseño particular específicamente ya que se adapta mas a una plantilla (template) que puede ser aplicada a varias situaciones.</p>
+-**La solución**: <p align= "Justify">describe los elementos del diseño, sus relaciones, responsabilidades y colaboraciones. No describe la implementación o un diseño particular específicamente ya que se adapta mas a una plantilla (template) que puede ser aplicada a varias situaciones.</p>
 
-- <p align= "Justify">**Las consecuencias**: son los resultados de aplicar el patrón, los pros y contras de su aplicación. Las consecuencias de la aplicación de un patrón debe incluir el impacto en la flexibilidad, extensibilidad y/o portabilidad del sistema.</p>
+- **Las consecuencias**:  <p align= "Justify">son los resultados de aplicar el patrón, los pros y contras de su aplicación. Las consecuencias de la aplicación de un patrón debe incluir el impacto en la flexibilidad, extensibilidad y/o portabilidad del sistema.</p>
 
 ## Tipos de patrones
 
@@ -39,7 +39,7 @@ Un patrón de diseño es una solución a un problema de diseño.
 1. **Abstract Factory**
 <p align= "Justify">Proporciona una interfaz para crear familias de objetos o que dependen entre sí, sin especificar sus clases concretas.</p>
 
-![alt text](https://github.com/jgruizba/Mdlpygame/blob/master/personajeWW.jpg)
+![alt text](https://github.com/AlejandroPuentes/Patrones-Gof/blob/master/Abstract%20Factory.png)
 
 2. **Singleton**
 <p align= "Justify">Provee una interfaz para crear un objeto, pero deja a las subclases decidir cual clase instanciar, Factory Method permite a una clase aplazar la instanciación a las subclases.</p>
