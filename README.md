@@ -34,23 +34,19 @@ Un patrón de diseño es una solución a un problema de diseño.
 ## Tipos de patrones
 
 ### Creacionales
+<p align= "Justify">Los patrones de creación abstraen la forma en la que se crean los objetos, permitiendo tratar las clases a crear de forma genérica dejando para más tarde la decisión de qué clases crear o cómo crearlas.</p>
 
 1. **Abstract Factory**
-
 <p align= "Justify">Proporciona una interfaz para crear familias de objetos o que dependen entre sí, sin especificar sus clases concretas.</p>
 
 2. **Singleton**
-
 <p align= "Justify">Provee una interfaz para crear un objeto, pero deja a las subclases decidir cual clase instanciar, Factory Method permite a una clase aplazar la instanciación a las subclases.</p>
 
 3. **Factory Method**
-
 <p align= "Justify">Provee una interfaz para crear un objeto, pero deja a las subclases decidir cual clase instanciar, Factory Method permite a una clase aplazar la instanciación a las subclases.</p>
 
 4. **Builder**
-
 <p align= "Justify">Su intención es de abstraer el proceso de creación de un objeto complejo, centralizando dicho proceso en un único punto, de tal forma que el mismo proceso de construcción pueda crear representaciones diferentes.</p>
 
 5. **Prototype**
-
 <p align= "Justify">Especifica el tipo de objeto a crear usando una instancia prototípica y crea nuevos objetos copiando este prototipo.</p>
