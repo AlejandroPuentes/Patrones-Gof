@@ -23,13 +23,13 @@ Un patrón de diseño es una solución a un problema de diseño.
 
 <p align= "Justify">Los patrones de diseño representa un nivel de abstracción un poco mas elevado de lo que hasta ahora el estudiante esta habituado a trabajar, pero una vez entendido su funcionamiento y utilidad, los diseños serán mucho más flexibles, modulares y reutilizables. En esencia un patrón tiene los siguientes 4 elementos:</p>
 
-- **Nombre del patrón**: describe el problema de diseño, su solución y consecuencias en una o dos palabras.
+- <p align= "Justify">**Nombre del patrón**: describe el problema de diseño, su solución y consecuencias en una o dos palabras.</p>
 
-- **El problema**: describe cuando aplicar el patrón, explica el problema y su contexto.
+- <p align= "Justify">**El problema**: describe cuando aplicar el patrón, explica el problema y su contexto.<p>
 
-- **La solución**: describe los elementos del diseño, sus relaciones, responsabilidades y colaboraciones. No describe la implementación o un diseño particular específicamente ya que se adapta mas a una plantilla (template) que puede ser aplicada a varias situaciones.
+- <p align= "Justify">**La solución**: describe los elementos del diseño, sus relaciones, responsabilidades y colaboraciones. No describe la implementación o un diseño particular específicamente ya que se adapta mas a una plantilla (template) que puede ser aplicada a varias situaciones.</p>
 
-- **Las consecuencias**: son los resultados de aplicar el patrón, los pros y contras de su aplicación. Las consecuencias de la aplicación de un patrón debe incluir el impacto en la flexibilidad, extensibilidad y/o portabilidad del sistema.
+- <p align= "Justify">**Las consecuencias**: son los resultados de aplicar el patrón, los pros y contras de su aplicación. Las consecuencias de la aplicación de un patrón debe incluir el impacto en la flexibilidad, extensibilidad y/o portabilidad del sistema.</p>
 
 ## Tipos de patrones
 
