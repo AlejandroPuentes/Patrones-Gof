@@ -27,7 +27,7 @@ Un patrón de diseño es una solución a un problema de diseño.
 
 - **El problema**:  <p align= "Justify">describe cuando aplicar el patrón, explica el problema y su contexto.<p>
 
--**La solución**: <p align= "Justify">describe los elementos del diseño, sus relaciones, responsabilidades y colaboraciones. No describe la implementación o un diseño particular específicamente ya que se adapta mas a una plantilla (template) que puede ser aplicada a varias situaciones.</p>
+- **La solución**:  <p align= "Justify">describe los elementos del diseño, sus relaciones, responsabilidades y colaboraciones. No describe la implementación o un diseño particular específicamente ya que se adapta mas a una plantilla (template) que puede ser aplicada a varias situaciones.</p>
 
 - **Las consecuencias**:  <p align= "Justify">son los resultados de aplicar el patrón, los pros y contras de su aplicación. Las consecuencias de la aplicación de un patrón debe incluir el impacto en la flexibilidad, extensibilidad y/o portabilidad del sistema.</p>
 
