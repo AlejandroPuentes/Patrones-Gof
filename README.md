@@ -39,6 +39,8 @@ Un patrón de diseño es una solución a un problema de diseño.
 1. **Abstract Factory**
 <p align= "Justify">Proporciona una interfaz para crear familias de objetos o que dependen entre sí, sin especificar sus clases concretas.</p>
 
+![alt text](https://github.com/jgruizba/Mdlpygame/blob/master/personajeWW.jpg)
+
 2. **Singleton**
 <p align= "Justify">Provee una interfaz para crear un objeto, pero deja a las subclases decidir cual clase instanciar, Factory Method permite a una clase aplazar la instanciación a las subclases.</p>
 
@@ -50,3 +52,8 @@ Un patrón de diseño es una solución a un problema de diseño.
 
 5. **Prototype**
 <p align= "Justify">Especifica el tipo de objeto a crear usando una instancia prototípica y crea nuevos objetos copiando este prototipo.</p>
+
+
+
+BIBLIOGRAFIA 
+[1] apdaza/patrones-gof-java. (2020). Retrieved 2 July 2020, from https://github.com/apdaza/patrones-gof-java
