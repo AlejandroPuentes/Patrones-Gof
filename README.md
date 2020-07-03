@@ -44,7 +44,7 @@ Un patrón de diseño es una solución a un problema de diseño.
 ![alt text](https://github.com/AlejandroPuentes/Patrones-Gof/blob/master/Singleton.PNG)
 
 3. **Factory Method**  <p align= "Justify">Provee una interfaz para crear un objeto, pero deja a las subclases decidir cual clase instanciar, Factory Method permite a una clase aplazar la instanciación a las subclases.</p>
-![alt text](https://github.com/AlejandroPuentes/Patrones-Gof/blob/master/FactoryMethod.PNG)
+![alt text](https://github.com/AlejandroPuentes/Patrones-Gof/blob/master/FactoryG)
 
 4. **Builder**  <p align= "Justify">Su intención es de abstraer el proceso de creación de un objeto complejo, centralizando dicho proceso en un único punto, de tal forma que el mismo proceso de construcción pueda crear representaciones diferentes.</p>
 ![alt text](https://github.com/AlejandroPuentes/Patrones-Gof/blob/master/Builder.PNG)
