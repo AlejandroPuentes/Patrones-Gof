@@ -1,5 +1,6 @@
 # Patrones de Diseño
-
+Integrantes:
+- Brayan Alejandro Puentes Camargo-20181020044
 <p align= "Justify">El diseño de software orientado a objetos es, en cierta forma, difícil, si a esta tarea sumamos que el software diseñado debe tener ciertas
 características deseables como la reusabilidad,
 flexibilidad y portabilidad entre otras, la tarea es
